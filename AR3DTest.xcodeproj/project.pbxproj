@@ -13,6 +13,7 @@
 		7A78796420313AEB00071AC6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7A78796220313AEB00071AC6 /* Main.storyboard */; };
 		7A78796620313AEB00071AC6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7A78796520313AEB00071AC6 /* Assets.xcassets */; };
 		7A78796920313AEB00071AC6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7A78796720313AEB00071AC6 /* LaunchScreen.storyboard */; };
+		7A78797120318F2400071AC6 /* timg.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7A78797020318F2300071AC6 /* timg.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		7A78796520313AEB00071AC6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7A78796820313AEB00071AC6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7A78796A20313AEB00071AC6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7A78797020318F2300071AC6 /* timg.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = timg.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				7A78795C20313AEB00071AC6 /* AppDelegate.swift */,
 				7A78795E20313AEB00071AC6 /* art.scnassets */,
 				7A78796020313AEB00071AC6 /* ViewController.swift */,
+				7A78797020318F2300071AC6 /* timg.jpg */,
 				7A78796220313AEB00071AC6 /* Main.storyboard */,
 				7A78796520313AEB00071AC6 /* Assets.xcassets */,
 				7A78796720313AEB00071AC6 /* LaunchScreen.storyboard */,
@@ -127,6 +130,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7A78795F20313AEB00071AC6 /* art.scnassets in Resources */,
+				7A78797120318F2400071AC6 /* timg.jpg in Resources */,
 				7A78796920313AEB00071AC6 /* LaunchScreen.storyboard in Resources */,
 				7A78796620313AEB00071AC6 /* Assets.xcassets in Resources */,
 				7A78796420313AEB00071AC6 /* Main.storyboard in Resources */,
@@ -279,6 +283,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = H4384M9Z5J;
 				INFOPLIST_FILE = AR3DTest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.MQ.AR3DTest;
@@ -293,6 +298,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = H4384M9Z5J;
 				INFOPLIST_FILE = AR3DTest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.MQ.AR3DTest;
